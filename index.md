@@ -1,4 +1,3 @@
-theme: THEME-NAME
 # Mathématique Actuarielle Vie 2 
 
 ## Semaine 8 - Contrats d'assurance sur deux têtes
