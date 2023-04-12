@@ -1,6 +1,6 @@
 # Mathématique Actuarielle Vie 2 
 
-## Semaine 8 - Contrats d'assurance sur deux têtes
+## Semaine 10 - Contrats d'assurance sur deux têtes
 
 ### Objectifs Généraux
 1. Connaître la définition des statuts de vie conjointe et de dernier survivant 
@@ -17,7 +17,7 @@
 6. Formuler l'équation d'une prime d'un contrat sur deux têtes.
 
 ### Matériel Source
-Actuarial Mathématic Life, Chapitre 8
+AMLCR : Chapitre 10 - Joint life and last survivor benefits (pages 388-414).
 
 ### Diapositives (PDF)
 
