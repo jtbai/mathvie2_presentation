@@ -27,4 +27,5 @@ AMLCR : Chapitre 10 - Joint life and last survivor benefits (pages 388-414).
 
 ### Exercices
 
-1. [Calcul des probabilité vie conjointe et dernier survivants](notebook/jointlife_lastsurvivor_probability_calculation_examples.ipynb)
+1. [Calcul de la valeur d'une rente sur deux têtes](notebook/exemple_10_1.ipynb)
+2. [Calcul de la prime d'un produit sur deux têtes](notebook/exemple_10_2.ipynb)
