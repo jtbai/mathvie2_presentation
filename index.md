@@ -1,6 +1,7 @@
+theme: THEME-NAME
 # Mathématique Actuarielle Vie 2 
 
-## Semaine 8
+## Semaine 8 - Contrats d'assurance sur deux têtes
 
 ### Objectifs Généraux
 1. Connaître la définition des statuts de vie conjointe et de dernier survivant 
@@ -8,13 +9,16 @@
 3. Se familiariser avec le calcul des primes pour des contrats d'assurance et de rentes sur deux têtes.
 
 
-### Après ces capsules vous pourrez :
+### Après ces capsules vous pourrez
 1. Définir les statuts vie conjointe et dernier survivant.
 2. Donner un exemple de produit d'assurance sur deux têtes.
 3. Exprimer les probabilités et produits associés aux statuts vie conjointe et dernier survivant en notation actuarielle.
 4. Calculer la valeur du coût d'assurance d'un contrat sur deux têtes avec des durées de vie indépendantes.
 5. Utiliser les relations importantes entre les valeur des contrat vie conjointe et dernier survivants.
 6. Formuler l'équation d'une prime d'un contrat sur deux têtes.
+
+### Matériel Source
+Actuarial Mathématic Life, Chapitre 8
 
 ### Diapositives (PDF)
 
@@ -24,4 +28,4 @@
 
 ### Exercices
 
-1. Calcul des probabilité vie conjointe et dernier survivants
+1. [Calcul des probabilité vie conjointe et dernier survivants](notebook/jointlife_lastsurvivor_probability_calculation_examples.ipynb)
