@@ -15,6 +15,8 @@
 4. Calculer la valeur du coût d'assurance d'un contrat sur deux têtes avec des durées de vie indépendantes.
 5. Utiliser les relations importantes entre les valeur des contrat vie conjointe et dernier survivants.
 6. Formuler l'équation d'une prime d'un contrat sur deux têtes.
+7. Illustrer le modèle multi-états pour les vies indépendantes et dépendantes. 
+8. Adapter les formules du modèle multi-états aux syndromes du coeur brisé et du choc commun dans l'évaluation des produits d'assurance.
 
 ### Matériel Source
 AMLCR : Chapitre 10 - Joint life and last survivor benefits (pages 388-414).
@@ -23,9 +25,12 @@ AMLCR : Chapitre 10 - Joint life and last survivor benefits (pages 388-414).
 
 1. [Définition du status vie conjointe et dernier survivants](./diapositives/chap8-jlls.pdf){:target="_blank"}
 2. [Évaluations des contrats d'assurance sur 2 têtes](./diapositives/chap8-evaluation.pdf){:target="_blank"}
-3. [Présentation du modèle d'états pour modélisation de la dépendance des vies](){:target="_blank"}
+3. [Présentation du modèle d'états pour modélisation de la dépendance des vies](./diapositives/chap8-mme.pdf){:target="_blank"}
 
 ### Exercices
 
 1. [Calcul de la valeur d'une rente sur deux têtes](notebook/exemple_10_1.ipynb)
 2. [Calcul de la prime d'un produit sur deux têtes](notebook/exemple_10_2.ipynb)
+
+### Travail de session: remise #3
+- [Énoncé](remise3.md)
