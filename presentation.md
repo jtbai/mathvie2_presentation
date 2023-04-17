@@ -18,17 +18,6 @@ format:
 
 ---
 
-
-## À VENIR
-
-
-* Semaine 11: Rien de spécial!
-* Semaine 12: Remise #3
-
-
----
-
-
 ## Aujourd'hui
 
 
@@ -92,8 +81,9 @@ Diapos!
 
 * Entrevue: Benjamin Moffet
   * Directeur régional de vente Groupe Cloutier
+  * Diversité du produit
   * Popularité du produit
-  * Effet humain
+  * Effet humain des conseillers
   * Implémentation de la dépendance
   
 
@@ -118,3 +108,12 @@ Diapos!
 
 
 Site du cours!
+
+
+---
+
+
+## À la semaine prochaine!
+
+
+---

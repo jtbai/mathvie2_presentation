@@ -16,22 +16,24 @@
 2. Donner un exemple de produit d'assurance sur deux têtes.
 3. Exprimer les probabilités et produits associés aux statuts vie conjointe et dernier survivant en notation actuarielle.
 4. Calculer la valeur du coût d'assurance d'un contrat sur deux têtes avec des durées de vie indépendantes.
-5. Utiliser les relations importantes entre les valeurs des contrats vie conjointe et dernier survivant.
 6. Formuler l'équation d'une prime d'un contrat sur deux têtes.
-7. Illustrer le modèle multi-états pour les vies indépendantes et dépendantes. 
-8. Adapter les formules du modèle multi-états aux syndromes du coeur brisé et du choc commun dans l'évaluation des produits d'assurance.
+7. Illustrer les composantes du modèle multi-états pour les vies dépendantes et indépendantes. 
+8. Adapter les formules d'évaluation de produits pour y inclure les syndromes du coeur brisé et du choc commun
 
 
 ### Matériel Source
 AMLCR : Chapitre 10 - Joint life and last survivor benefits (pages 388-414).
 
-
-### Diapositives (PDF)
+### Capsules (PDF)
 
 
 1. [Définition du statut vie conjointe et dernier survivant](./diapositives/chap8-jlls.pdf){:target="_blank"}
 2. [Évaluations des contrats d'assurance sur 2 têtes](./diapositives/chap8-evaluation.pdf){:target="_blank"}
 3. [Présentation du modèle d'états pour modélisation de la dépendance des vies](./diapositives/chap8-mme.pdf){:target="_blank"}
+
+### Wooclap
+
+[Wooclap](https://app.wooclap.com/ACT2007JLLS)
 
 
 ### Exercices
