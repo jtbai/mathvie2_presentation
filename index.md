@@ -1,7 +1,7 @@
 # Mathématique Actuarielle Vie 2 
 
 
-## Semaine 10 - Contrats d'assurance sur deux têtes
+## [Semaine 10](presentation-s10.pdf) - Contrats d'assurance sur deux têtes
 
 
 ### Objectifs généraux
